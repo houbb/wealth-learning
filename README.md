@@ -55,7 +55,3 @@ npm install -g wealth-learning
 wealth-learning <port>
 # 访问 http://localhost:{port} 查看文档
 ```
-
-## 赞助我
-
-![](https://img-blog.csdnimg.cn/20200112005920729.png)
